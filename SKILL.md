@@ -1,6 +1,9 @@
 ---
 name: agent-skills-manager
-description: Manage skills across AI coding agents (Claude Code, Codex, Pi, OpenCode, Hermes) with a unified symlink architecture. Use when the user wants to install a new skill, migrate skills from multiple agents into one source of truth, sync Hermes after skill changes, repair agent skill symlinks, or check skill distribution. Triggers: "install skill", "migrate skills", "统一管理 skill", "安装 skill", "同步 Hermes", "skill 分布", "修复 skill 软链接".
+description: >
+  Manage skills across AI coding agents (Claude Code, Codex, Pi, OpenCode, Hermes) with a unified symlink architecture.
+  Use when the user wants to install a new skill, migrate skills from multiple agents into one source of truth, sync Hermes after skill changes, repair agent skill symlinks, or check skill distribution.
+  Triggers: "install skill", "migrate skills", "统一管理 skill", "安装 skill", "同步 Hermes", "skill 分布", "修复 skill 软链接".
 ---
 
 # Agent Skills Manager
